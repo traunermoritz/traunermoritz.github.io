@@ -1,1 +1,1 @@
-# traunermoritz.github.io
+- [traunermoritz.github.io](https://www.hakzellschueler.at/moritztrauner/projekt1/)
